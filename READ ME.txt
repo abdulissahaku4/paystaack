@@ -1,0 +1,5 @@
+body params:
+	{
+            "email": "customer@email.com",
+            "amount": "20000"
+          }
